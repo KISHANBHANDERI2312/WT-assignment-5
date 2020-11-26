@@ -1,1 +1,1 @@
-# WT-assignment-5
+# PRACTICAL-ASSG-5
